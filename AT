@@ -6,7 +6,7 @@ int main()
 {
     
     cout<<":)";
- std::cout << "Programa para calcular el area y perimetro de un rectangulo equilatero :)" << std::endl;
+ std::cout << "Programa para calcular el area y perimetro de un triangulo equilatero :)" << std::endl;
  std::cout << "" << std::endl;
  std::cout << "ingresa la altura [h]" << std::endl;
  int h=0;
